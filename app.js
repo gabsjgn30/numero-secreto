@@ -64,7 +64,7 @@ function reiniciarJogo() {
     exibirMensagemInicial();
     document.getElementById('reiniciar').setAttribute('disabled', true)
 }
-
+//Escolha um número entre 1 a 10
 
 
 
